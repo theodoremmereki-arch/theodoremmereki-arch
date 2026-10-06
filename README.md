@@ -6,7 +6,7 @@ I'm an Information and Communication Technology graduate based in Botswana with 
 
 I enjoy solving technical problems and building practical IT solutions.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Systems & IT Support
 - Windows installation, configuration and troubleshooting
